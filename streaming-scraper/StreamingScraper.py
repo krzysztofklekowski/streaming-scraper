@@ -1,11 +1,2 @@
 class StreamingScraper(object):
-
-
-
-
     pass
-
-
-
-
-
